@@ -7,7 +7,7 @@ Description du projet :
   <li>Vos compétences</li>
   <li>Vos projets</li>
   <li>Votre parcours de formations et expériences</li>
-  <li>Formulaire de contact et liens vers votre LinkedIn, GitHub et possibilité detélécharger votre cv</li>
+  <li>Formulaire de contact et liens vers votre LinkedIn, GitHub et possibilité de télécharger votre cv</li>
 </ul>
 <h1>Back</h1>
 <ul>
